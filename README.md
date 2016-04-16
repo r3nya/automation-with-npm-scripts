@@ -1,4 +1,4 @@
-# Shower Presentation Template
+# Automation with npm scripts
 
 <img src="pictures/logo.png" width="250" alt="Shower logo">
 
